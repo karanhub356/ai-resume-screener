@@ -167,16 +167,6 @@ pip install -r requirements.txt
 ## 👤 Author
 
 **Karan M**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: (https://github.com/karanhub356)
+- LinkedIn:(https://www.linkedin.com/in/karan-m356)
 - Email: mkaran030506@gmail.com
-
----
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
-
----
-
-> ⭐ If this project helped you, give it a star on GitHub!
