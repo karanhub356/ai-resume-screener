@@ -8,7 +8,8 @@ An intelligent resume screening tool that ranks candidates against a job descrip
 
 ## 📸 Dashboard Preview
 
-> *(Add your screenshot here — drag and drop into the GitHub README editor)*
+> <img width="1916" height="1021" alt="Screenshot 2026-06-11 091801" src="https://github.com/user-attachments/assets/c5dedc31-8dcc-49e3-b4b6-463218319dcc" />
+
 
 ---
 
