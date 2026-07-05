@@ -169,7 +169,6 @@ Add your Gemini API key in the sidebar to unlock:
   - *"Compare the top 2 candidates"*
   - *"Which candidates know both Python and SQL?"*
 
-Get a free Gemini API key at [aistudio.google.com](https://aistudio.google.com)
 
 ---
 
