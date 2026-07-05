@@ -200,10 +200,3 @@ Get a free Gemini API key at [aistudio.google.com](https://aistudio.google.com)
 
 ---
 
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
-
----
-
-> ⭐ Star the repo if it helped you.
