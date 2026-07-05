@@ -26,6 +26,13 @@ An intelligent resume screening tool that ranks candidates against a job descrip
 
 ---
 
+## 🤖 AI Features (Optional)
+- Enter a Gemini API key in the sidebar to unlock:
+  - AI-generated candidate summaries
+  - Strength & gap analysis per candidate  
+  - Auto-generated interview questions
+  - AI Recruiter Chat — ask questions across all resumes
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
