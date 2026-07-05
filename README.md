@@ -33,6 +33,8 @@ An intelligent resume screening tool that ranks candidates against a job descrip
   - Auto-generated interview questions
   - AI Recruiter Chat — ask questions across all resumes
 
+---
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
