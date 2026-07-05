@@ -6,7 +6,12 @@
 
 ## 📸 Dashboard Preview
 
-> *(Add your screenshot here)*
+> <img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/7dc08e44-1de2-4180-9c3b-33df38fa494a" />
+<img width="1917" height="1007" alt="image" src="https://github.com/user-attachments/assets/2837709a-7b7a-426a-8586-e487b8da2b44" />
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/b13a97ca-8e4c-4e39-909f-7cb0f47770a5" />
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/0bf76b97-c6d1-4ba0-b2f2-d2420277c709" />
+<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/ade5827b-8df4-4912-b68e-a9fb587e9626" />
+<img width="1917" height="1023" alt="image" src="https://github.com/user-attachments/assets/6168b862-f4a6-4565-8389-52be17b22045" />
 
 ---
 
