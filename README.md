@@ -1,6 +1,6 @@
 # 🎯 AI Resume Screener
 
-> An intelligent, multi-modal resume screening tool that ranks candidates against a job description using **Sentence-BERT semantic similarity**, **spaCy NLP skill extraction**, **weighted scoring**, and optional **Gemini AI analysis** — all wrapped in an interactive Streamlit dashboard.
+>A production-ready, multi-page intelligent resume screening tool that ranks candidates against a job description using Sentence-BERT semantic similarity, spaCy NLP skill extraction, Gemini AI analysis, and a RAG recruiter chatbot — all wrapped in a secure, multi-page Streamlit dashboard.
 
 ---
 
@@ -21,11 +21,13 @@ Most resume screeners are glorified CTRL+F — they match keywords and call it A
 
 This one doesn't:
 
-- **SBERT embeddings** — understands that "ML Engineer" and "Machine Learning Engineer" mean the same thing. TF-IDF doesn't.
-- **Explainability** — every score broken down into 4 dimensions. You know *why* a candidate ranked where they did.
-- **Gemini AI layer** — optional LLM analysis generates candidate summaries, gap analysis, and interview questions per resume
-- **Recruiter Chat** — ask natural language questions across the entire resume pool ("Who has the most AWS experience?")
-- **Adjustable weights** — tune semantic vs skill vs experience vs education importance per role type
+SBERT embeddings — understands "ML Engineer" and "Machine Learning Engineer" mean the same thing. TF-IDF doesn't.
+Dynamic skill extraction — Gemini AI reads the JD and extracts skills beyond the hardcoded taxonomy, so niche or emerging tools don't get missed
+Date-aware experience parsing — reads actual work history date ranges (e.g., "June 2021 – Present"), not just regex for "X years of experience"
+Explainability first — every score broken down into 4 dimensions with matched/missing skill chips
+RAG recruiter chatbot — ask natural language questions across the entire resume pool with full conversation memory
+Password protected — auth gate before anyone sees candidate data
+Auto-normalized weights — sliders never silently break your scoring
 
 ---
 
