@@ -129,7 +129,7 @@ streamlit run app.py
 
 Opens at `http://localhost:8501`
 
-**Default password:** `admin123`
+**Default password:** ``
 Change it by setting the `APP_PASSWORD` environment variable or via Streamlit secrets.
 
 ---
