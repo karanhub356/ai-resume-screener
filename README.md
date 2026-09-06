@@ -223,7 +223,7 @@ Get a free Gemini API key at [aistudio.google.com](https://aistudio.google.com)
 
 ## 🔐 Password Protection
 
-Default password: `admin123`
+Default password: ``
 
 **Change via environment variable:**
 ```bash
