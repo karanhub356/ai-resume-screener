@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Environment & secrets
+.env
+*.env
+
+# Runtime data (SQLite databases are generated at runtime)
+*.db
+*.db-journal
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Claude Code / agent config
+.claude/
+.agents/
+skills-lock.json
+
+# Logs
+*.log
