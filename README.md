@@ -26,6 +26,16 @@ An AI-powered recruitment intelligence platform that parses, grades, and ranks r
 
 ---
 
+## 📸 Dashboard
+
+<img width="1917" height="1023" alt="image" src="https://github.com/user-attachments/assets/92e41f50-42c7-488a-95f1-310e58ad59ab" />
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/1848ada2-96af-4e04-a4a5-f7b6ea077c05" />
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/9f6c13be-97cf-47de-9b0e-7edd0a0e2b83" />
+<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/b183d754-eec9-494b-81ff-1c33909f5d3e" />
+<img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/ee202aac-62e5-4483-b0fb-9f29557ca063" />
+
+---
+
 ## 🛠️ Technology Stack
 
 * **Backend / API**: FastAPI, Uvicorn, Jinja2, python-multipart
